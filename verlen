@@ -8,9 +8,9 @@ enable=1
 21=1244
 211=1245
 [UPD]
-v=2.9.0.2
+v=2.9.0.3
 build=25
-des=2.9.0.2 Update for new security DRP, new vk alarm selling product
+des=2.9.0.3 upd for upd DRP
 upd=2.8.5.1 upd security and optimizy    \\`n\\    2.8.9.9 Upd for update DRP    \\`n\\    2.9.0.0:small bugfix    \\`n\\    2.9.0.1:update MenuVKbyCompanyChecker, new soundpack security    \\`n\\    2.9.0.2:upd for upd DRP, add autoupdate for updDRPsecurity
 1=1
 2=2
