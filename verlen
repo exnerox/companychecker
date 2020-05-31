@@ -1,5 +1,4 @@
-1337Ж Script on updates..
-Autoupdate start without 10 min
+
 [dialogs]
 enable=1
 info=Last update: 5:07 31.05.2020
@@ -11,7 +10,7 @@ info=Last update: 5:07 31.05.2020
 211=1248
 [UPD]
 v=2.9.0.5.2
-build=30
+build=31
 des=Eclu tvoi nomer ne 1,3,19,20,24,35,46,47,49,50,53,62,67,69-76 : najmi !SPRAVKA!
 upd=Eclu tvoi nomer ne 1,3,19,20,24,35,46,47,49,50,53,62,67,69-76 : napishi mne v vk.me/danil.exnerox : inache ne budet rabotat' 
 1=1
