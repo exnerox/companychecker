@@ -1,7 +1,7 @@
 
 [dialogs]
 enable=1
-info=Last update: 00:30 01.12.2020
+info=Last update: 01:00 01.12.2020
 1=1235
 11=1236
 111=1237
@@ -10,8 +10,8 @@ info=Last update: 00:30 01.12.2020
 211=1240
 [UPD]
 v=2.9.5.1
-build=43
-buildOLD=42
+build=44
+buildOLD=43
 buildOLD=40
 buildOLD=37
 des=2.9.5.1 - исправлен баг вк управления
